@@ -1,10 +1,10 @@
 {
-    "title" : "Portfolio de Élie Copter",
-    "lastname": "Copter",
-    "firstname": "Élie",
-    "portrait" : "avatar.jpg",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "biography": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis ante in orci auctor pharetra. Duis interdum erat semper nunc faucibus maximus. Proin dapibus auctor sollicitudin. Nulla mattis volutpat enim, ac ultrices odio dignissim id. Morbi nisl nisi, consequat ut finibus non, convallis interdum velit. Maecenas congue diam dolor, non elementum ipsum tincidunt vel. Sed dui ipsum, finibus rhoncus sollicitudin sit amet, varius non nulla. Duis vestibulum facilisis ligula, vel bibendum mauris aliquam in. Etiam urna ligula, pharetra a dictum et, blandit nec leo. Donec consequat tincidunt nisi at consectetur.",
+    "title" : "Portfolio de Corentin Lebarbé",
+    "lastname": "Lebarbé",
+    "firstname": "Corentin",
+    "portrait" : "IMG_6403.PNG",
+    "intro": "etudiant en MMI je dechire tous sur mon passage de neh ",
+    "biography": "Je m'appelle Corentin Lebarbé, j'ai 18 ans et je suis actuellement étudiant en Métiers du Multimédia et de l'Internet (MMI) à Lannion. Passionné par le multimédia et Internet en général, ces domaines me donnent une constante inspiration et de la motivation. En dehors de mes études, je suis également passionné par le sport, le dessin et le numérique (jeu vidéo, réseaux sociaux). Ces activités me permettent de m'épanouir et de développer ma créativité au quotidien. Au quotidien je suis empathique, j’aime faire rire et rire. Grâce à la formation MMI, je suis en train d'acquérir de nombreuses compétences, notamment en graphisme, en création de sites internet et en communication. Avant de commencer la formation MMI, j’ai obtenu un BAC spécialité mathématique, physique-chimie.",
     "cv" : "CV.pdf",
     "trainings": [
         {
@@ -14,15 +14,15 @@
             "end" : 2026
         },
         {
-            "name" : "Bac S, option Maths et Arts Plastiques",
-            "school" : "Lycée Félix Le Dantec( 22)",
-            "start" : 2023
+            "name" : "Bac spécialité Mathematique, Physique-chimie, LLCER",
+            "school" : "Lycée Jean-Marie le bris( 29)",
+            "start" : 2024
         }
     ],
     "interests": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "Le sport (football)",
+        "Les voitures",
+        "La montagne"
     ],
     "projects": [
         {
@@ -35,7 +35,7 @@
                 "Dev Web"
             ],
             "link" : "https://youtube.com",
-            "picture": "projet.jpg"
+            "picture": "src/assets/media/Capture d’écran 2025-01-14 à 15.59.16.png"
         },
         {
             "title": "Project 2 : Lorem ipsum dolor sit amet consecitur",
@@ -108,13 +108,13 @@
     ],
     "contacts": [
         {"name" : "Instagram", 
-        "url" : "https://instagram.com",
+        "url" : "https://www.instagram.com/corentin_lebarbe/",
         "icon" : "insta.svg"},
         {"name" : "LinkedIn", 
         "url" : "https://linkedin.com",
         "icon" : "linkedin.svg"},
         {"name" : "Mail", 
-        "url" : "mailto:elie.copter.titi@etudiant.univ-rennes.fr",
+        "url" : "corentin.lebarbe@etudiant.univ-rennes.fr",
         "icon" : "mail.svg"}
     ]
 }
